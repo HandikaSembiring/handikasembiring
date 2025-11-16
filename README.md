@@ -14,10 +14,10 @@
 ## 🧑‍💻 About Me
 - 👤 Nama: **Handika Sembiring**
 - 🎒 SMK RPL Student
-- 🚀 Sedang ngembangin website **Pinjam Satoe** (Laravel + Vite)
-- 🛠️ Fokus ke **Frontend Web** + sedikit Backend
+- 🚀 Sedang mengerjakan aplikasi **Pinjam Satoe** (Laravel + Vite + Tailwind)
+- 🛠️ Fokus utama: **Frontend Web**, tapi paham Backend
 - 🧠 Belajar: Laravel, React, Express.js, Tailwind, Flutter
-- 🎯 Target: Jadi Junior Developer sebelum lulus sekolah
+- 🎯 Target: Jadi Junior Developer sebelum lulus SMK
 
 ---
 
@@ -39,9 +39,9 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=handikasem&show_icons=true&theme=radical&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=handikasembiring&show_icons=true&theme=radical&hide_border=true" />
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=handikasem&theme=radical&hide_border=true" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=handikasembiring&theme=radical&hide_border=true" />
 
 </div>
 
@@ -53,7 +53,7 @@ Aplikasi penyewaan barang rumah tangga
 **Laravel + Vite + Tailwind CSS**
 
 ### 📚 **Library Management System**
-Website perpustakaan dengan versi PHP native → upgrade ke Express.js
+Website perpustakaan (PHP native → upgrade Express.js)
 
 ### 🛒 **Kasir Web App**
 Backend: Express.js  
