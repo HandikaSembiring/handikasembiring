@@ -14,8 +14,8 @@
 ## 🧑‍💻 About Me
 - 👤 Nama: **Handika Sembiring**
 - 🎒 SMK RPL Student
-- 🚀 Sedang mengerjakan aplikasi **Pinjam Satoe** (Laravel + Vite + Tailwind)
-- 🛠️ Fokus utama: **Frontend Web**, tapi paham Backend
+- 🚀 Sedang mengerjakan aplikasi **ONE INVEN** (Laravel + Vite + Tailwind)
+- 🛠️ Fokus utama: **Backend**, tapi paham Frontend
 - 🧠 Belajar: Laravel, React, Express.js, Tailwind, Flutter
 - 🎯 Target: Jadi Junior Developer sebelum lulus SMK
 
@@ -48,8 +48,8 @@
 ---
 
 ## 🔥 Featured Projects
-### 🚩 **Pinjam Satoe**
-Aplikasi penyewaan barang rumah tangga  
+### 🚩 **ONE INVEN**
+Aplikasi sistem inventaris barang sekolah 
 **Laravel + Vite + Tailwind CSS**
 
 ### 📚 **Library Management System**
