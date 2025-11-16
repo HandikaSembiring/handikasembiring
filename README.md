@@ -1,6 +1,6 @@
 <!-- ====================== HANDIKA SEMBIRING - DARK HACKER PROFILE ====================== -->
 
-<h1 align="center">🕶️ Handika Sembiring</h1>
+<h1 align="center">Handika Sembiring</h1>
 <p align="center">
   <em>Young Developer • SMK RPL • Future Software Engineer</em>
 </p>
