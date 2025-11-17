@@ -9,17 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub;Fullstack+Learner;Laravel+%7C+Express+%7C+React+%7C+Flutter;Always+Learning+Something+New">
 </p>
 
----
-
-## 🧑‍💻 About Me
-- 👤 Nama: **Handika Sembiring**
-- 🎒 SMK RPL Student
-- 🚀 Sedang mengerjakan aplikasi **ONE INVEN** (Laravel + Vite + Tailwind)
-- 🛠️ Fokus utama: **Backend**, tapi paham Frontend
-- 🧠 Belajar: Laravel, React, Express.js, Tailwind, Flutter
-- 🎯 Target: Jadi Junior Developer sebelum lulus SMK
-
----
 
 ## ⚡ Tech Stack
 ### **💻 Backend**
@@ -45,21 +34,6 @@
 
 </div>
 
----
-
-## 🔥 Featured Projects
-### 🚩 **ONE INVEN**
-Aplikasi sistem inventaris barang sekolah 
-**Laravel + Vite + Tailwind CSS**
-
-### 📚 **Library Management System**
-Website perpustakaan (PHP native → upgrade Express.js)
-
-### 🛒 **Kasir Web App**
-Backend: Express.js  
-Frontend: React.js
-
----
 
 ## 🤝 Connect With Me
 <p align="left">
